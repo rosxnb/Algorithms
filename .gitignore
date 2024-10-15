@@ -1,0 +1,13 @@
+# Files
+
+.DS_Store
+*.o
+*.s
+a.out
+compile_flags.txt
+
+
+# Folders
+
+build/
+a.out*
